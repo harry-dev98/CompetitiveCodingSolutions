@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "*.tcc": "cpp",
+        "iosfwd": "cpp",
+        "istream": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "regex": "cpp",
+        "algorithm": "cpp",
+        "utility": "cpp",
+        "bitset": "cpp"
+    }
+}

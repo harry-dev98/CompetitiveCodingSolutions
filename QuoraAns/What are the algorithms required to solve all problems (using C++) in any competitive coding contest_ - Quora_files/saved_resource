@@ -1,0 +1,32 @@
+
+var ftGUID_4214891="452272993C47FD";
+var ftConfID_4214891="0";
+var ftParams_4214891="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_ifb=1&ft_domain=www.quora.com&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.quora.com%2FWhat-are-the-algorithms-required-to-solve-all-problems-using-C%2B%2B-in-any-competitive-coding-contest&cachebuster=447475.8171514075";
+var ftKeyword_4214891="";
+var ftCustom_4214891="";
+var ftSection_4214891="";
+var ftSegment_4214891="";
+var ftSegmentList_4214891=[];
+var ftRuleMatch_4214891="0";
+var ftTimestamp_4214891="1596127741";
+var ftGeoC2_4214891="in";
+var ftGeoState_4214891="pb";
+var ftGeoCity_4214891="ludhiana";
+var ftISP_4214891="bharti airtel limited";
+var ftSpeed_4214891="mobile";
+var ftDMA_4214891="-1";
+var ftLong_4214891="75.76";
+var ftLat_4214891="30.89";
+var ftPostal_4214891="142027";
+var ftTimeZone_4214891="530";
+var ftMobileCarrier_4214891="airtel";
+var ftImp4214891 = {};
+ftImp4214891.privacy = "x";
+ftImp4214891.guidAge = "72";
+ftImp4214891.impID = "B9999D63-736A-7DF0-7A13-80896975234C";
+ftImp4214891.duid = "FT:452272993C47FD";
+
+ftImp4214891.ft_tpplid = "";
+ftImp4214891.ft_c = {};
+
+document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/421/4214891/2776215/js/j-4214891-2776215.js" id="ftscript_m4214891" name="ftscript_m4214891"></scr'+'ipt>');
