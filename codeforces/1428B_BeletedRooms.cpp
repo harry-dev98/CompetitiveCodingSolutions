@@ -19,7 +19,12 @@ int main(){
         if(nC == 0 || nAC == 0){
             cout<<n<<"\n";
         } else {
-            cout<<(nB>0?nB+1:0)<<"\n";
+            nB = 0;
+            str += str[0];
+			for(int i = 0;i < n;i++){
+				if(str[i] == '-' || str[i+1] == '-') nB++;
+			}
+            cout<<nB<<"\n";
         }
     }
     return 0;
